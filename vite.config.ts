@@ -5,11 +5,11 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  build: {
-    outDir: 'docs'
-  },
-  // @ts-ignore
-  base: process.env.GH_PAGES ? '/demo-dapp-with-react-ui/' : './',
+  // build: {
+  //   outDir: 'docs'
+  // },
+  // // @ts-ignore
+  // base: process.env.GH_PAGES ? '/demo-dapp-with-react-ui/' : './',
   server: {
     fs: {
       allow: ['../sdk', './'],
