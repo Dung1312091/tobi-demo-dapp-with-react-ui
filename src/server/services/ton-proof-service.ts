@@ -52,6 +52,8 @@ export class TonProofService {
       if (!address.equals(wantedAddress)) {
         return false;
       }
+      console.log("🚀 ~ TonProofService ~ checkProof ~ payload.proof.domain.value:", payload.proof.domain.value)
+
       if (!allowedDomains.includes(payload.proof.domain.value)) {
         return false;
       }
