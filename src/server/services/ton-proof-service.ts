@@ -10,7 +10,7 @@ const tonConnectPrefix = 'ton-connect';
 const allowedDomains = [
   'ton-connect.github.io',
   'localhost:5173',
-  'https://tobi-demo-dapp-with-react-ui.vercel.app'
+  'tobi-demo-dapp-with-react-ui.vercel.app'
 ];
 const validAuthTime = 15 * 60; // 15 minute
 
