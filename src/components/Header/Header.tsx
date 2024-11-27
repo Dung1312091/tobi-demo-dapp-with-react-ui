@@ -3,7 +3,7 @@ import './header.scss';
 
 export const Header = () => {
     return <header>
-        <span>My App with React UI</span>
+        <span>My App with React UI V2</span>
         <TonConnectButton />
     </header>
 }

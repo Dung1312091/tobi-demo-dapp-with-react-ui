@@ -72,12 +72,12 @@ function App() {
                 platforms: ["ios", "android", "chrome"]
               },
               {
-                appName: "tobi",
-                name: "Tobi",
+                appName: "tobiV2",
+                name: "TobiV2",
                 imageUrl: "https://app.tobiwallet.app/icons/logo.png",
                 aboutUrl: "https://tobi.fun",
                 universalLink: "https://t.me/telifidev_bot?attach=wallet",
-                bridgeUrl: "https://ton-bridge.tobiwallet.app/bridge",
+                bridgeUrl: "https://xv7vrzfk-3000.asse.devtunnels.ms/bridge",
                 platforms: ["ios", "android", "macos", "windows", "linux"]
               },
               {
