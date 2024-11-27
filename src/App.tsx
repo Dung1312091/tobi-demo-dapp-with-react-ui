@@ -77,7 +77,7 @@ function App() {
                 imageUrl: "https://app.tobiwallet.app/icons/logo.png",
                 aboutUrl: "https://tobi.fun",
                 universalLink: "https://t.me/telifidev_bot?attach=wallet",
-                bridgeUrl: "https://xv7vrzfk-3000.asse.devtunnels.ms/bridge",
+                bridgeUrl: "https://ton-bridge-ts-270012110056.asia-southeast1.run.app/bridge",
                 platforms: ["ios", "android", "macos", "windows", "linux"]
               },
               {
